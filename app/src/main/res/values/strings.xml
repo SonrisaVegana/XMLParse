@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XMLParse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_error">Error de connexió</string>
+    <string name="xml_error">Error de parse l\'XML</string>
+    <string name="page_title">Noticies</string>
+    <string name="updated">Actualitzat el</string>
+</resources>
